@@ -20,8 +20,6 @@ MynameisVinni!
 >>> #PROBLEM 3
 >>> int(3.7)
 3
->>> float(27.7)
-27.7
 >>> float(27)
 27.0
 >>> #PROBLEM 4
